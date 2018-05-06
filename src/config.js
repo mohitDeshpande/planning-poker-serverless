@@ -1,6 +1,6 @@
 const config = {
   db: {
-    uri: 'mongodb://Mohits-MacBook-Pro.local:27017/mongoose_basics',
+    uri: 'mongodb://localhost/mongoose_basics',
   },
 };
 
